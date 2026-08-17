@@ -301,79 +301,7 @@ AI-Cyber-Threat-Detection/
 
 ---
 
-## 🛠️ Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/sumankr62800-del/AI-Cyber-Threat-Detection.git
-```
-
-Move into the project:
-
-```bash
-cd AI-Cyber-Threat-Detection
-```
-
-Create a virtual environment:
-
-```bash
-python -m venv .venv
-```
-
-Activate it on Windows:
-
-```powershell
-.\.venv\Scripts\Activate.ps1
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Run the Dashboard
-
-Run the Streamlit application:
-
-```bash
-streamlit run src/app.py
-```
-
-The application will open in your browser.
-
----
-
-## 🔬 Run the Machine Learning Pipeline
-
-### Data preprocessing
-
-```bash
-python src/preprocessing.py
-```
-
-### Model training
-
-```bash
-python src/train_model.py
-```
-
-### Individual prediction
-
-```bash
-python src/predict.py
-```
-
-### Threat analysis
-
-```bash
-python src/threat_analysis.py
-```
-
----
 
 ## 🔐 Security Scope
 
@@ -435,7 +363,6 @@ Through this project, I worked with:
 
 **Suman Kumar**
 
-B.Tech Computer Science Student
 Python Developer | AI/ML Enthusiast
 
 ---
