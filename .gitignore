@@ -1,0 +1,17 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+# Raw datasets
+dataset/
+
+# Large processed datasets
+processed_data/X_train.csv
+processed_data/X_test.csv
+processed_data/y_train.csv
+processed_data/y_test.csv
+
+# Python temporary files
+*.py[cod]
+*.pyo
